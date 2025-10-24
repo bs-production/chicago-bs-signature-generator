@@ -18,7 +18,7 @@
             valign="top"
             style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;"
           >
-            <a href="https://www.goalford.com" target="_blank">
+            <a href="https://www.chicagobasementsystems.com" target="_blank">
               <img
                 v-show="mobilePhoneSwitch"
                 width="220"
@@ -31,7 +31,7 @@
                   margin-top: 5px;
                 "
                 id="preview-image-url"
-                src="https://cdn.treehouseinternetgroup.com/cms_images/2434/Alford_sign-gen-bar.jpg"
+                src="https://cdn.treehouseinternetgroup.com/cms_images/4224/signature-logo-bar-bs-chicago.jpg"
                 name="preview-image-url"
               />
 
@@ -47,7 +47,7 @@
                   margin-top: 5px;
                 "
                 id="preview-image-url"
-                src="https://cdn.treehouseinternetgroup.com/cms_images/2434/Alford_sign-gen-bar.jpg"
+                src="https://cdn.treehouseinternetgroup.com/cms_images/4224/signature-logo-bar-bs-chicago.jpg"
                 name="preview-image-url"
               />
             </a>
@@ -78,7 +78,7 @@
                   colspan="2"
                   style="
                     padding-bottom: 5px;
-                    color: #0054a6;
+                    color: #0054a7;
                     font-size: 18px;
                     font-family: Arial, Helvetica, sans-serif;
                   "
@@ -107,7 +107,7 @@
                   style="
                     vertical-align: top;
                     width: 20px;
-                    color: #0054a6;
+                    color: #0054a7;
                     font-size: 14px;
                     font-family: Arial, Helvetica, sans-serif;
                   "
@@ -133,7 +133,7 @@
                   style="
                     vertical-align: top;
                     width: 20px;
-                    color: #0054a6;
+                    color: #0054a7;
                     font-size: 14px;
                     font-family: Arial, Helvetica, sans-serif;
                   "
@@ -159,7 +159,7 @@
                   style="
                     vertical-align: top;
                     width: 20px;
-                    color: #0054a6;
+                    color: #0054a7;
                     font-size: 14px;
                     font-family: Arial, Helvetica, sans-serif;
                   "
@@ -195,7 +195,7 @@
                   style="
                     vertical-align: top;
                     width: 20px;
-                    color: #0054a6;
+                    color: #0054a7;
                     font-size: 14px;
                     font-family: Arial, Helvetica, sans-serif;
                   "
@@ -212,7 +212,7 @@
                   "
                 >
                   <a
-                    href="https://www.goalford.com"
+                    href="https://www.chicagobasementsystems.com"
                     target="_blank"
                     style="
                       color: #333333;
@@ -221,7 +221,7 @@
                       font-size: 14px;
                     "
                   >
-                    GoAlford.com</a
+                    ChicagoBasementSystems.com</a
                   >
                   &nbsp;&nbsp;
                 </td>
@@ -229,7 +229,7 @@
 
               <tr>
                 <td colspan="2" style="padding-top: 5px">
-                  <a
+                  <!-- <a
                     href="https://www.facebook.com/AlfordFoundationCrawlSpaceRepair"
                     target="_blank"
                     style="
@@ -311,13 +311,13 @@
                       "
                       src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/youtube.png"
                   /></a>
-                  <!-- <a href="https://www.tiktok.com/@healthybasementsystems?lang=en" target="_blank"
+                  <a href="https://www.tiktok.com/@healthybasementsystems?lang=en" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://cdn.treehouseinternetgroup.com/cms_images/48/tiktok-icon.png" /></a> -->
+                    "https://cdn.treehouseinternetgroup.com/cms_images/48/tiktok-icon.png" /></a>
                   <a
                     href="https://twitter.com/AlfordHome"
                     target="_blank"
@@ -357,7 +357,7 @@
                         max-height: 25px !important;
                       "
                       src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-linkedin_30x30-2.png"
-                  /></a>
+                  /></a> -->
                 </td>
               </tr>
             </table>
@@ -367,7 +367,7 @@
       <p
         style="
           font-size: 10px;
-          color: #0054a6;
+          color: #0054a7;
           line-height: 12px;
           text-align: left;
           width: 450px;
@@ -439,6 +439,6 @@ li {
 }
 
 a {
-  color: #0054a6;
+  color: #0054a7;
 }
 </style>
