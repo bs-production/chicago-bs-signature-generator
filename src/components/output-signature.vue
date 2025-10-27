@@ -188,7 +188,7 @@
                   &nbsp;&nbsp;
                 </td>
               </tr>
-              <tr>
+              <!-- <tr>
                 <td
                   width="20"
                   valign="top"
@@ -225,7 +225,7 @@
                   >
                   &nbsp;&nbsp;
                 </td>
-              </tr>
+              </tr> -->
 
               <tr>
                 <td colspan="2" style="padding-top: 5px">
