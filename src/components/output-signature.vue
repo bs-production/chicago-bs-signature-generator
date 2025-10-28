@@ -18,7 +18,7 @@
             valign="top"
             style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;"
           >
-            <a href="https://www.chicagobasementsystems.com" target="_blank">
+            <!-- <a href="https://www.chicagobasementsystems.com" target="_blank"> -->
               <img
                 v-show="mobilePhoneSwitch"
                 width="220"
@@ -50,7 +50,7 @@
                 src="https://cdn.treehouseinternetgroup.com/cms_images/4224/signature-logo-bar-bs-chicago.jpg"
                 name="preview-image-url"
               />
-            </a>
+            <!-- </a> -->
           </td>
 
           <td
