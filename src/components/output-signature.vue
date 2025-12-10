@@ -229,8 +229,8 @@
 
               <tr>
                 <td colspan="2" style="padding-top: 5px">
-                  <!-- <a
-                    href="https://www.facebook.com/AlfordFoundationCrawlSpaceRepair"
+                  <a
+                    href="https://www.facebook.com/chicagobasementsystems"
                     target="_blank"
                     style="
                       border-width: 0px;
@@ -250,7 +250,7 @@
                       src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/facebook.png"
                   /></a>
 
-                  <a
+                  <!-- <a
                     href="https://www.google.com/maps/place/Alford+Home+Solutions/@38.3678997,-81.7672115,17z/data=!3m1!4b1!4m5!3m4!1s0x8848cae419ad3cd5:0x367d7ef64bda48ce!8m2!3d38.3678997!4d-81.7650228?shorturl=1"
                     target="_blank"
                     style="
@@ -269,10 +269,10 @@
                         max-height: 25px !important;
                       "
                       src="https://cdn.treehouseinternetgroup.com/cms_images/2726/icon-google_30x30.png"
-                  /></a>
+                  /></a> -->
 
                   <a
-                    href="https://www.instagram.com/alfordfoundationandcrawlrepair/"
+                    href="https://www.instagram.com/chibasementsystems/"
                     target="_blank"
                     style="
                       border-width: 0px;
@@ -292,7 +292,7 @@
                       src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/instagram.png"
                   /></a>
                   <a
-                    href="https://www.youtube.com/channel/UCiLk7QUmleisanwszwfaARQ/featured"
+                    href="https://www.youtube.com/@ChicagoBasementSystems"
                     target="_blank"
                     style="
                       border-width: 0px;
@@ -311,7 +311,7 @@
                       "
                       src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/youtube.png"
                   /></a>
-                  <a href="https://www.tiktok.com/@healthybasementsystems?lang=en" target="_blank"
+                  <!-- <a href="https://www.tiktok.com/@healthybasementsystems?lang=en" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
@@ -337,8 +337,8 @@
                         max-height: 25px !important;
                       "
                       src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1253/twitter-circle-icon-2.png"
-                  /></a>
-                  <a
+                  /></a> -->
+                  <!-- <a
                     href="https://www.linkedin.com/company/alfordhomesolutions/"
                     target="_blank"
                     style="
