@@ -250,8 +250,8 @@
                       src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/facebook.png"
                   /></a>
 
-                  <!-- <a
-                    href="https://www.google.com/maps/place/Alford+Home+Solutions/@38.3678997,-81.7672115,17z/data=!3m1!4b1!4m5!3m4!1s0x8848cae419ad3cd5:0x367d7ef64bda48ce!8m2!3d38.3678997!4d-81.7650228?shorturl=1"
+                  <a
+                    href="https://maps.app.goo.gl/ZesB8Abd52ncgf3y5"
                     target="_blank"
                     style="
                       border-width: 0px;
@@ -269,7 +269,7 @@
                         max-height: 25px !important;
                       "
                       src="https://cdn.treehouseinternetgroup.com/cms_images/2726/icon-google_30x30.png"
-                  /></a> -->
+                  /></a>
 
                   <a
                     href="https://www.instagram.com/chibasementsystems/"
