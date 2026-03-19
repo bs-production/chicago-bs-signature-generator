@@ -111,6 +111,6 @@ li {
 }
 
 a {
-  color: #013d63;
+  color: #0054a7;
 }
 </style>
