@@ -34,7 +34,6 @@
                 src="https://cdn.treehouseinternetgroup.com/cms_images/4224/signature-logo-bar-bs-chicago.jpg"
                 name="preview-image-url"
               />
-
               <img
                 v-show="!mobilePhoneSwitch"
                 width="190"
